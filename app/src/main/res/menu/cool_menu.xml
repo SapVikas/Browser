@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bHome"
+        android:title="Home"/>
+    <item
+        android:id="@+id/bRefresh"
+        android:title="Refresh"/>
+    <item
+        android:id="@+id/bBack"
+        android:title="Back"/>
+    <item
+        android:id="@+id/bFrwrd"
+        android:title="Forward"/>
+    <item
+        android:id="@+id/bClrHistory"
+        android:title="Clear History"/>
+
+    <item
+        android:id="@+id/aboutus"
+        android:title="About us"/>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"/>
+    <item
+        android:id="@+id/Ex1"
+        android:title="Exit"/>
+</menu>
